@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dks:home|Door43 (dks)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dks|d43-dks repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dks/archive/master.zip|d43-dks.zip]]
+
+**Recent Changes**
+{{changes>ns = dks}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dks|Ethnologue data]]
+
