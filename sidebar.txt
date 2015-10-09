@@ -17,10 +17,7 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 [[http://www.ethnologue.com/language/dks|Ethnologue data]]
 
-
 **Resources**
 
   * [[dks:obs|Open Bible Stories (dks)]]
 
-**Latest OBS Status**
-{{page>en:uwadmin:dks:obs:status}}
